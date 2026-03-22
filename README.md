@@ -4,7 +4,7 @@ markdown
 > **An Algorithmic Meme Infrastructure Powered by Hyperliquid Ecosystem Yields**
 
 ## 🌌 Executive Summary
-$PURFIT (Quant Cat) is a next-generation meme experiment designed to bridge the gap between speculative assets and quantitative finance. Unlike static meme coins, $PURFIT is backed by a proprietary **HYPE-Fueled AI Logic Engine** that captures delta-neutral returns from the Hyperliquid ecosystem to create a persistent, algorithmically-hardened price floor.
+$PURFIT (Purr + Profit) is a next-generation meme experiment designed to bridge the gap between speculative assets and quantitative finance. Unlike static meme coins, $PURFIT is backed by a proprietary **HYPE-Fueled AI Logic Engine** that captures delta-neutral returns from the Hyperliquid ecosystem to create a persistent, algorithmically-hardened price floor.
 
 ---
 
