@@ -1,5 +1,7 @@
 # PURFIT-Asset
 markdown
+Status: Epoch 0.25 (Logic Calibration)
+
 # 🐈‍⬛ $PURFIT: The Quant Cat Protocol
 > **An Algorithmic Meme Infrastructure Powered by Hyperliquid Ecosystem Yields**
 
