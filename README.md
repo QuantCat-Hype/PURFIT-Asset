@@ -23,6 +23,16 @@ Our core capital is strategically deployed to ensure maximum stability and explo
 - **30% HYPE Staking (The Floor):** Locked in HYPE staking to generate native ecosystem rewards and establish a permanent price floor.
 - **10% AI-Logic Rebalancing & Hunting:** The "Moon" fund used for aggressive buy-backs and capturing arbitrage opportunities.
 
+🐾 **The Triple-Claw Strategy (10% AI Hunting Fund)**
+
+Our AI Hunting Logic operates through three heuristic execution modes:
+
+**Claw A: Night Stalk (Mean Reversion)** - Tracking overhyped listings and harvesting "The Purr" as FOMO decays.
+
+**Claw B: Pounce Strike (Trend Following)** - Tactical high-leverage longs on $HYPE support re-tests.
+
+**Claw C: Paw Swipe (Arbitrage)** - Snatching funding anomalies and slippage gaps for risk-free treats.
+
 ## 📈 Tokenomics (Institutional Distribution)
 
 
@@ -36,8 +46,8 @@ Our core capital is strategically deployed to ensure maximum stability and explo
 
 ## 🚀 Strategic Roadmap
 1. **Phase 1: Quantum Genesis** - Deployment of the multi-node matrix and initial $PURFIT/HYPE liquidity.
-2. **Phase 2: Yield Activation** - First public execution of the "Quant Cat" rebalancing cycle.
-3. **Phase 3: Ecosystem Domination** - Expanding the yield capture radius to secondary Hyperliquid protocols.
+2. **Phase 2: The Sandbox Era** - Transitioning to a Decentralized Quant Sandbox. Initializing the Peer-Review infrastructure for external strategy submissions.
+3. **The Hunting Ground** - Allocating 10% of systemic yield to stress-test community-voted alpha models.
 4. **Phase 5: Canonical Integration** - Achieving Hyperliquid Canonical status and enabling $PURFIT collateralization.
 
 ---
