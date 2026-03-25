@@ -30,7 +30,7 @@ class PurfitAIREngine:
     def run_rebalancing_cycle(self, daily_delta):
         """
         Executes the 30/30/30/10 capital allocation logic.
-        Focuses on 'The Moon' (10%) for aggressive hunting and buybacks.
+        Now integrated with Triple-Claw Strategy (v1.5 Calibration).
         """
         print(f"[$] Executing AI-Logic Rebalancing Cycle...")
         
@@ -38,9 +38,13 @@ class PurfitAIREngine:
         # 2. Yield Harvesting (30% HYPE LP Profit)
         # 3. Floor Support (30% HYPE Staking)
         
-        # 4. THE MOON: 10% AI-Logic Rebalancing & Hunting
+        # 4. THE MOON: 10% AI-Logic Rebalancing & Triple-Claw Hunting
+        # - Claw A (Night Stalk): Exhaustion & Breakdown Shorting (Ex: $BARD)
+        # - Claw B (Pounce Strike): Support-Hardening Buybacks
+        # - Claw C (Alpha Hook): Arbitrage & Yield Optimization
+        
         hunting_fund = daily_delta * 0.10
-        print(f"[!] HUNTING MODE ACTIVATED: {hunting_fund:.4f} USDC deployed for $PURFIT buyback.")
+        print(f"[!] TRIPLE-CLAW ACTIVATED: {hunting_fund:.4f} USDC deployed via Night Stalk logic.")
         
         rebalancing_tx = self._simulate_on_chain_execution(hunting_fund)
         return rebalancing_tx
