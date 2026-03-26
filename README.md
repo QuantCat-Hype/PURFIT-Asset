@@ -46,11 +46,15 @@ Our AI Hunting Logic operates through three heuristic execution modes:
 | **LP Status** | 100% Burned / Locked |
 | **Strategic Growth** | 5% (Dexscreener & CEX Listing) |
 
-## 🚀 Strategic Roadmap
-1. **Phase 1: Quantum Genesis** - Deployment of the multi-node matrix and initial $PURFIT/HYPE liquidity.
-2. **Phase 2: The Sandbox Era** - Transitioning to a Decentralized Quant Sandbox. Initializing the Peer-Review infrastructure for external strategy submissions.
-3. **The Hunting Ground** - Allocating 10% of systemic yield to stress-test community-voted alpha models.
-4. **Phase 5: Canonical Integration** - Achieving Hyperliquid Canonical status and enabling $PURFIT collateralization.
+## 🚀 Roadmap: $PURFIT Scaling
+1. Epoch 0.25: The Credibility Gate
+• Stress-testing the Triple-Claw framework on an External Alpha Pool.
+• Establishing MMD and Alpha benchmarks for systemic reputation.
+2. Epoch 0.50: The Sandbox Expansion
+• Initializing the Peer-Review Infrastructure for external strategy validation.
+• Integrating community-voted alpha models into the 10x $HYPE matrix.
+3. Epoch 1.00: Canonical Integration
+• Achieving Hyperliquid Canonical status and enabling $PURFIT as collateral.
 
 ---
 
