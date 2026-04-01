@@ -1,65 +1,68 @@
-# PURFIT-Asset
-markdown
-Status: Epoch 0.25 (Logic Calibration)
+# $PURFIT Asset Framework
+> **Status: Epoch 0.3 (Live: Sharpe-Optimized Allocation)**
 
-# 🐈‍⬛ $PURFIT: The Quant Cat Protocol
-> **An Algorithmic Meme Infrastructure Powered by Hyperliquid Ecosystem Yields**
-
-## 🌌 Executive Summary
-$PURFIT (Purr + Profit) is a next-generation meme experiment designed to bridge the gap between speculative assets and quantitative finance. Unlike static meme coins, $PURFIT is backed by a proprietary **HYPE-Fueled AI Logic Engine** that captures delta-neutral returns from the Hyperliquid ecosystem to create a persistent, algorithmically-hardened price floor.
+🐈‍⬛ **$PURFIT: The Quant Cat Protocol**
+*An Algorithmic Meme Infrastructure Powered by Hyperliquid Ecosystem Yields*
 
 ---
 
-## ⚙️ Core Mechanism: The "Quant Cat" Engine
-The $PURFIT protocol operates through an AI quantitative strategy. Instead of relying on constant community shilling, our value is driven by **The HYPE Ecosystem (HE) Engine**:
+### 📑 [ v0.3 Patch Notes ]
+* **Rebalancing**: Pivoted from 0.25 Logic to **10/70/10/10** (Optimized for Sharpe Ratio).
+* **Infrastructure**: Consolidated multi-wallet operations into a **Single Standardized 10,000u Unit**.
+* **Hardening**: Initialized **45% Strategy Reserve Lock** (450,000,000 $PURFIT).
+* **Logic**: Transitioned from raw yield harvesting to **Duration-Weighted Alpha**.
 
-- **Algorithmic Harvesting:** Our proprietary engine monitors high-yield liquidity nodes within the Hyperliquid/KittenSwap infrastructure.
-- **Yield Abstraction:** The protocol abstracts the underlying base capital to maintain competitive privacy, focusing exclusively on distributing the **Delta Revenue** back into $PURFIT.
-- **Dynamic Rebalancing:** 100% of captured daily yields are automatically deployed to market-buy $PURFIT during low-liquidity windows, maximizing price impact.
+---
 
-## 📊 The $PURFIT Ecosystem Engine (Allocation)
-Our core capital is strategically deployed to ensure maximum stability and explosive growth:
+### 🌌 Executive Summary
+$PURFIT (Purr + Profit) is a next-generation meme experiment designed to bridge the gap between speculative assets and quantitative finance. Following the successful **Performance x Duration** stress test in Epoch 0.25, the protocol has evolved into a **Meta-Aggregator** model, optimizing capital allocation based on risk-adjusted returns.
 
-- **30% Base LP (Liquidity Provider):** Securing the foundational $PURFIT/HYPE liquidity pool.
-- **30% Yield-Generating LP:** Allocated to high-efficiency KittenSwap/HYPE pairs to generate continuous profit income.
-- **30% HYPE Staking (The Floor):** Locked in HYPE staking to generate native ecosystem rewards and establish a permanent price floor.
-- **10% AI-Logic Rebalancing & Hunting:** The "Moon" fund used for aggressive buy-backs and capturing arbitrage opportunities.
+### ⚙️ Core Mechanism: The "Quant Cat" Engine
+The $PURFIT protocol operates through a **Systematic AI Logic**. We have moved beyond simple yield harvesting into a **Cash-Flow Driven** deflationary model:
 
-🐾 **The Triple-Claw Strategy (10% AI Hunting Fund)**
+1. **Sharpe-Optimized Rebalancing**: Our engine dynamically reallocates capital between $HYPE Staking, LP Provisioning, and Vault Alpha to maximize the Sharpe Ratio while minimizing Max Drawdown (MDD).
+2. **Protocol Sovereignty**: 45% of the total supply is locked in the **Strategy Reserve**, hardening the circulating supply and ensuring long-term protocol alignment.
+3. **Real-time Transparency**: All operations are consolidated into a **Standardized 10,000 USDC Seed Unit** for full on-chain auditability.
 
-Our AI Hunting Logic operates through three heuristic execution modes:
+### 📊 The $PURFIT Ecosystem Engine (Epoch 0.3 Allocation)
+*Refined based on Epoch 0.25 Data Calibration:*
 
-**Claw A: Night Stalk (Mean Reversion)** - Tracking overhyped listings and harvesting "The Purr" as FOMO decays.
+* **10% $PURFIT LP (Sovereignty)**: Maintaining the foundational liquidity for the $PURFIT ecosystem.
+* **70% $HYPE/USDC LP (The Cash Flow Engine)**: Our core driver. Delivering consistent fee-velocity and a 50% synthetic delta-hedge to outperform simple "Buy & Hold" strategies.
+* **10% $HYPE Staking (The Systemic Floor)**: Direct exposure to Hyperliquid L1 governance and native rewards.
+* **10% AI Hunting (The Alpha Fund)**: High-Sharpe, market-neutral strategies. This node scales dynamically as its **Duration** benchmarks are met.
 
-**Claw B: Pounce Strike (Trend Following)** - Tactical high-leverage longs on $HYPE support re-tests.
+### 🐾 The Triple-Claw Strategy (Refined)
+Our AI Hunting Logic operates through a **Duration-Weighted** conviction model:
 
-**Claw C: Paw Swipe (Arbitrage)** - Snatching funding anomalies and slippage gaps for risk-free treats.
+* **Claw A: Yield Velocity (The Purr)** - Capturing high-frequency trading fees from the $HYPE/USDC pair.
+* **Claw B: Risk-Adjusted Alpha (The Pounce)** - Deploying capital into certified Hyperliquid Vaults only after rigorous MDD validation.
+* **Claw C: Strategic Buybacks (The Swipe)** - Using 100% of generated daily cash flow to execute algorithmic buy-backs of $PURFIT.
 
-## 📈 Tokenomics (Institutional Distribution)
-
-
+### 📈 Tokenomics (Institutional Distribution)
 | Feature | Details |
 | :--- | :--- |
 | **Ticker** | $PURFIT |
-| **Total Supply** | 1,000,000,000,000 |
+| **Total Supply** | 1,000,000,000 |
+| **Circulating Supply** | 55% (Market & LP) |
+| **Strategy Reserve** | **45% (Locked / Protocol Owned)** |
 | **Buy/Sell Tax** | 0% |
-| **LP Status** | 100% Burned / Locked |
-| **Strategic Growth** | 5% (Dexscreener & CEX Listing) |
+| **Standardized Unit** | 10,000 USDC (Epoch 0.3 Base) |
 
-## 🚀 Roadmap: $PURFIT Scaling
-1. Epoch 0.25: The Credibility Gate
-• Stress-testing the Triple-Claw framework on an External Alpha Pool.
-• Establishing MMD and Alpha benchmarks for systemic reputation.
-2. Epoch 0.50: The Sandbox Expansion
-• Initializing the Peer-Review Infrastructure for external strategy validation.
-• Integrating community-voted alpha models into the 10x $HYPE matrix.
-3. Epoch 1.00: Canonical Integration
-• Achieving Hyperliquid Canonical status and enabling $PURFIT as collateral.
-
----
-
-## 🛠️ Quant Logic Implementation
-The core logic for our rebalancing engine can be found in [`core_quant_engine.py`](./core_quant_engine.py). 
+### 🚀 Roadmap: $PURFIT Scaling
+* **Epoch 0.25: Logic Calibration (COMPLETED)**
+    * Stress-testing the Triple-Claw framework on an External Alpha Pool.
+    * Validation of Sharpe Ratio vs. MDD across ecosystem nodes.
+* **Epoch 0.3: The Transparency Era (CURRENT)**
+    * **Consolidation**: Moving to a single, auditable Prime Account.
+    * **Optimization**: Pivoting to the 70% Cash-Flow centric model.
+    * **Hardening**: Execution of the 45% Treasury Lock.
+* **Epoch 1.00: Canonical Integration**
+    * Achieving Hyperliquid Canonical status and enabling $PURFIT as collateral.
 
 ---
-*Disclaimer: $PURFIT is a quantitative meme experiment. The underlying AI strategies are proprietary and designed for long-term ecosystem stability.*
+
+### 🛠️ Quant Logic Implementation
+The core logic for our rebalancing engine and Sharpe-optimization parameters is proprietary and designed for long-term ecosystem stability. 
+
+**Follow the Hunt. Verify the Logic. 🐈‍⬛⚖️**
