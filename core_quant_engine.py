@@ -34,11 +34,11 @@ class PurfitAIREngine:
         """
         print(f"[$] Executing AI-Logic Rebalancing Cycle...")
         
-        # 1. Base LP Maintenance (30%)
-        # 2. Yield Harvesting (30% HYPE LP Profit)
-        # 3. Floor Support (30% HYPE Staking)
+        # 1. Base LP Maintenance
+        # 2. Yield Harvesting (HYPE LP Profit)
+        # 3. Floor Support (HYPE Staking)
         
-        # 4. THE MOON: 10% AI-Logic Rebalancing & Triple-Claw Hunting
+        # 4. THE MOON: AI-Logic Rebalancing & Triple-Claw Hunting
         # - Claw A (Night Stalk): Exhaustion & Breakdown Shorting (Ex: $BARD)
         # - Claw B (Pounce Strike): Support-Hardening Buybacks
         # - Claw C (Alpha Hook): Arbitrage & Yield Optimization
