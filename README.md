@@ -1,6 +1,13 @@
 # $PURFIT Protocol Framework 🐈‍⬛
 ## Epoch 0.4: The AI-Logic DeFi Lab
 
+---
+
+### 🔬 Laboratory Technical Specs
+* **Architecture:** Epoch 0.4
+* **Mainnet Contract (CA):** `0x1e31a30cDD8614699f94055b7732FD3E2D041096`  *(HyperSwap)*
+* **Status:** Active | Monitoring Triple-Claw Logic
+
 > **"Logic is the only Alpha. Governance is the only Power."**
 
 $PURFIT is a **Decentralized AI-Logic Research Laboratory** built on the Hyperliquid L1 ecosystem. We bridge the gap between algorithmic rigor and decentralized governance, utilizing an AI-driven, Sharpe-optimized resource allocation model to explore the frontiers of DeFi.
