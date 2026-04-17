@@ -38,6 +38,12 @@ Laboratory resources are systematically deployed according to the following fixe
 | **10%** | **$HYPE Staking** | Ecosystem | **L1 Systemic Support**; aligns lab interests with the security of the Hyperliquid network. |
 | **10%** | **AI Research** | R&D Sandbox | **Dynamic Logic Testing**; validates the Triple-Claw AI Hunting models. |
 
+### ⚖️ Dynamic Governance & Vault Integration
+While the 80% core infrastructure (70% HYPE/USDC LP + 10% HYPE Staking) remains the immutable foundation of the laboratory, the remaining **20% (10% $PURFIT LP + 10% AI Research Fund)** is subject to community governance.
+
+* **Voting Rights:** $PURFIT governance participants can vote on the specific allocation ratios within this 20% sandbox.
+* **Ecosystem Deployment:** Governance can decide to deploy these research resources into various **Hyperliquid L1 Vaults** or other ecosystem-native strategies based on the performance of the Triple-Claw AI models.
+
 ---
 
 ### 🐾 The Triple-Claw AI Research Model (R&D Sandbox)
