@@ -1,24 +1,28 @@
 # $PURFIT Protocol Framework 🐈‍⬛
 ## Epoch 0.4: The AI-Logic DeFi Lab
 
+> **"Logic is the only Alpha. Governance is the only Power."**
+
 ---
 
 ### 🔬 Laboratory Technical Specs
-* **Architecture:** Epoch 0.4
-* **Mainnet Contract (CA):** `0x1e31a30cDD8614699f94055b7732FD3E2D041096`  *(HyperSwap)*
+* **Architecture:** Epoch 0.4 Governance Protocol
+* **Mainnet Contract (CA):** `0x1e31a30cDD8614699f94055b7732FD3E2D041096` (HyperSwap)
+* **Network:** Hyperliquid L1
 * **Status:** Active | Monitoring Triple-Claw Logic
 
-> **"Logic is the only Alpha. Governance is the only Power."**
+---
 
+### 📜 Abstract
 $PURFIT is a **Decentralized AI-Logic Research Laboratory** built on the Hyperliquid L1 ecosystem. We bridge the gap between algorithmic rigor and decentralized governance, utilizing an AI-driven, Sharpe-optimized resource allocation model to explore the frontiers of DeFi.
 
 ---
 
 ### 🏗️ Protocol Status: Epoch 0.4 (Current)
 
-* **Strategic Pivot:** Transitioned from a yield-focused tool to an **AI-Logic DeFi Lab (Governance-based Research Protocol)**.
+* **Strategic Pivot:** Transitioned from a yield-focused tool to an **AI-Logic DeFi Lab** (Governance-based Research Protocol).
 * **Base Unit:** Standardized 12,000 USDC Laboratory Research Unit.
-* **Core Architecture:** Implemented the **10/70/10/10** Resource Allocation Matrix to ensure system immutability and transparency.
+* **Core Architecture:** Implemented the **10/70/10/10 Resource Allocation Matrix** to ensure system immutability and transparency.
 * **Historical Validation:** Successfully maintained a **Sharpe Ratio of 3.0** during the Epoch 0.25 infrastructure stress-test phase.
 
 ---
@@ -29,10 +33,10 @@ Laboratory resources are systematically deployed according to the following fixe
 
 | Ratio | Node Name | Lab Role | Legal Nature & Function |
 | :--- | :--- | :--- | :--- |
-| **10%** | **$PURFIT LP** | **Sovereignty** | **Governance Threshold**; grants voting rights for lab parameters and R&D direction. |
-| **70%** | **$HYPE/USDC LP** | **Infrastructure** | **Laboratory Operational Base**; provides permanent liquidity and fee-velocity capture. |
-| **10%** | **$HYPE Staking** | **Ecosystem** | **L1 Systemic Support**; aligns lab interests with the security of the Hyperliquid network. |
-| **10%** | **AI Research** | **R&D Sandbox** | **Dynamic Logic Testing**; validates the Triple-Claw AI Hunting models. |
+| **10%** | **$PURFIT LP** | Sovereignty | **Governance Threshold**; grants voting rights for lab parameters and R&D direction. |
+| **70%** | **$HYPE/USDC LP** | Infrastructure | **Laboratory Operational Base**; provides permanent liquidity and fee-velocity capture. |
+| **10%** | **$HYPE Staking** | Ecosystem | **L1 Systemic Support**; aligns lab interests with the security of the Hyperliquid network. |
+| **10%** | **AI Research** | R&D Sandbox | **Dynamic Logic Testing**; validates the Triple-Claw AI Hunting models. |
 
 ---
 
@@ -40,12 +44,12 @@ Laboratory resources are systematically deployed according to the following fixe
 
 The 10% dynamic research allocation is utilized to validate the $PURFIT AI logic across varying market conditions:
 
-* **Claw A: Defensive Logic (Risk Mitigation)** 🛡️
-    Validates automated hedging mechanisms to preserve laboratory principal during systemic drawdowns.
-* **Claw B: Growth Logic (Momentum Capture)** 🚀
-    Captures ecosystem expansion and directional alpha through high-frequency data-driven rebalancing.
-* **Claw C: Neutral Logic (Convergence Testing)** ⚖️
-    Conducts market-neutral experiments, validating basis-trading and mean-reversion logic in multi-asset environments.
+* **Claw A: Defensive Logic (Risk Mitigation) 🛡️**
+  Validates automated hedging mechanisms to preserve laboratory principal during systemic drawdowns.
+* **Claw B: Growth Logic (Momentum Capture) 🚀**
+  Captures ecosystem expansion and directional alpha through high-frequency data-driven rebalancing.
+* **Claw C: Neutral Logic (Convergence Testing) ⚖️**
+  Conducts market-neutral experiments, validating basis-trading and mean-reversion logic in multi-asset environments.
 
 ---
 
@@ -63,13 +67,13 @@ The 10% dynamic research allocation is utilized to validate the $PURFIT AI logic
 ### 🚀 Roadmap
 
 * **Epoch 0.25: Logic Calibration [COMPLETED]**
-    Validation of Triple-Claw framework vs. Maximum Drawdown (MDD) parameters.
+  Validation of Triple-Claw framework vs. Maximum Drawdown (MDD) parameters.
 * **Epoch 0.4: Governance Transition [CURRENT]**
-    * Official redefinition as an **AI-Logic DeFi Lab** to mitigate regulatory risks.
-    * Execution of the 45% Strategy Reserve Lock.
-    * Implementation of Identity Verification (X Premium status) for enhanced data transparency.
+  * Official redefinition as an **AI-Logic DeFi Lab** to mitigate regulatory risks.
+  * Execution of the 45% Strategy Reserve Lock.
+  * Implementation of Identity Verification (X Premium status) for enhanced data transparency.
 * **Epoch 1.00: Canonical Integration**
-    Targeting Hyperliquid Canonical status and ecosystem-wide governance integration.
+  Targeting Hyperliquid Canonical status and ecosystem-wide governance integration.
 
 ---
 
