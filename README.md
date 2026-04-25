@@ -45,12 +45,20 @@ Laboratory resources are deployed according to a **Sovereign Trinity** to ensure
 
 ---
 
-## 🐾 The Triple-Claw AI Research Model
-The 10% dynamic research allocation validates $PURFIT$’s silicon instincts across market emotional cycles:
+## 🐾 The Triple-Claw AI Hunting Model (Synthetic Instincts)
+The 10% dynamic research allocation validates $PURFIT’s silicon logic by systematically exploiting human cognitive biases through three distinct predatory modes:
 
-* **Claw A: Defensive Logic (The Shield) 🛡️** Validates automated "Cold-Snap" hedging. It preserves laboratory principal during systemic drawdowns.
-* **Claw B: Growth Logic (The Hunter) 🚀** Feeds on market "Heat" and FOMO. It captures ecosystem expansion and directional alpha.
-* **Claw C: Neutral Logic (The Mirror) ⚖️** Operates in the "Dead Zone" of human fear. Validates basis-trading and mean-reversion logic when carbon-based intuition fails.
+* **Claw A: Rational Friction (The Arbitrator) 🛡️**
+  **Target:** Market overreactions triggered by irrational sentiment.  
+  **Logic:** It identifies "Logic Gaps" where emotional cascading (panic or euphoria) causes assets to deviate from their structural value. Claw A provides the "counter-logic" liquidity required to harvest these transient price dislocations.
+
+* **Claw B: Narrative Resonance (The Seismograph) 🚀**
+  **Target:** Early-stage consensus formation and narrative precursors.  
+  **Logic:** It monitors "Social & On-chain Vibrations" to detect the birth of a feedback loop before it reaches mass consciousness. By identifying the specific "Logic Signature" of a trend, Claw B positions the lab to capture the explosive alpha of early-stage reflexivity.
+
+* **Claw C: Antifragile Tail (The Black Swan) ⚖️**
+  **Target:** "Sentiment Tail Risks" and systemic liquidation events.  
+  **Logic:** It operates in the "Dead Zone" of human fear. While carbon-based entities retreat during black-swan volatility, Claw C utilizes the protocol's -6.89% stress-tested floor to conduct reverse-harvesting—turning systemic collapse into concentrated alpha through anti-fragile positioning.
 
 ---
 
